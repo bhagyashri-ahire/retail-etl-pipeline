@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+SQLAlchemy>=2.0
+pytest>=7.0
+# Optional: only needed if you load into MySQL
+# PyMySQL>=1.1
+# Optional: only needed for the Airflow DAG
+# apache-airflow>=2.8
